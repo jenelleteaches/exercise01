@@ -5,6 +5,7 @@ This repository contains the starter code for the `Git Practice` exercise.
 ### Student Information
 
 Student Name: Jenelle C
+
 Student ID:  123567890
 
 
